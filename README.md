@@ -39,8 +39,8 @@ COMMENT_SYSTEM_ID = "<YOUR-SITE_NAME>"
 GLOBAL_CONTEXT = {
     ...
     "cactus_config": {
-        "defaultHomeserverUrl": "https://matrix.cactus.chat:8448",                                                                                                                                             
-        "serverName": "cactus.chat"                                                                                                                                                                            
+        "defaultHomeserverUrl": "https://matrix.cactus.chat:8448",
+        "serverName": "cactus.chat"
         }
     }
 ```
